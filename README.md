@@ -1,0 +1,2 @@
+# Thunderbolt
+Discord.js bot
